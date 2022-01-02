@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://running-page-wheat.vercel.app/sitemap/sitemap-index.xml
+Host: https://running-page-wheat.vercel.app
